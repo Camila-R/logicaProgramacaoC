@@ -1,4 +1,6 @@
-🇺🇸 # Aptitude Test – Programming Logic
+🇺🇸
+
+# Aptitude Test – Programming Logic
 
 ## Purpose of this test
 This test is a tool for students to assess whether it is advisable to take a Programming Logic course before taking one of our Object-Oriented Programming courses.
@@ -35,7 +37,9 @@ This test is a tool for students to assess whether it is advisable to take a Pro
 
 --------------------------------------------------------------------------------------------------
 
-🇧🇷 # Teste de aptidão - Lógica de Programação
+🇧🇷
+
+# Teste de aptidão - Lógica de Programação
 
 ## Objetivo desta prova
 Esta prova serve como um instrumento para que o aluno avalie se convém ou não fazer um curso de Lógica de Programação antes de fazer um de nossos cursos de Programação Orientada a Objetos.
